@@ -1,5 +1,3 @@
----
-
 🚗 Car Price Prediction using Machine Learning, FastAPI & Streamlit
 
 📌 Project Overview
