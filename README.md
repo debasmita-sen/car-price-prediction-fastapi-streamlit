@@ -39,7 +39,7 @@ The main objective of this project is to provide users with a simple web applica
 
 🏗️ Project Architecture
 
-User
+                  User
                    │
                    │
                    ▼
